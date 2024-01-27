@@ -1,0 +1,1 @@
+Tuve dificultades para logar el acomodo de los paneles, una vez realizado lo demas me parecio mas facil de montar.
