@@ -26,7 +26,6 @@
   margin-top: auto; /* Coloca el div de usuario en la parte inferior */
 }
 
-
 .right-panel {
   display: flex;
   flex-direction: column;
@@ -34,7 +33,17 @@
   align-items: center;
   padding: 20px;
   font-family: Arial, Helvetica, sans-serif;
+  position: relative; /* Agrega position: relative; al panel derecho */
 }
+
+.right-panel img {
+  width: 150px; /* Cambia el valor según el tamaño que desees */
+  height: auto; /* Mantiene la proporción de la imagen */
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
 
 .right-panel input {
   width: 80%; /* Ancho del input */
