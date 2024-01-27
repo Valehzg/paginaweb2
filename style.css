@@ -1,0 +1,51 @@
+.container {
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+  gap: 10px;
+  height: 100vh; /* Abarcar toda la altura de la ventana */
+}
+
+.left-panel {
+  padding: 10px;
+  background-color: black;
+  color: aliceblue;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: smaller;
+  text-align: center;
+  margin-top: 10%;
+}
+
+.chats, .usuario {
+  border: 1px solid #333333;
+  padding: 5px;
+  margin-bottom: 10px;
+  background-color: #0f0f0f;
+}
+
+.usuario {
+  margin-top: auto; /* Coloca el div de usuario en la parte inferior */
+}
+
+
+.right-panel {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.right-panel input {
+  width: 80%; /* Ancho del input */
+  padding: 10px;
+  margin-top: auto; /* Coloca el input al final del contenedor */
+  border: 1px solid #ccc; /* Borde del input */
+  border-radius: 5px; /* Bordes redondeados */
+}
+
+.footer {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: x-small;
+}
