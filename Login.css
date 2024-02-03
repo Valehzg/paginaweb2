@@ -16,7 +16,7 @@ body {
     align-items: center;
     height: 35px;
     position: fixed;
-    top: 0;
+    top: 10px;
     width: 100%;
 }
 
