@@ -1,2 +1,3 @@
 Tuve dificultades para logar el acomodo de los paneles, una vez realizado lo demas me parecio mas facil de montar.
-Le agrege un logo tipo, aun tiene algunos erros que ya no pude encontrar la causa pero al la vista todo va bien jeje salu2
+Le agrege un logo tipo, aun tiene algunos erros que ya no pude encontrar la causa pero al la vista todo va bien jeje s
+Parte 3 de la tarea, tuve dificultad en la parte del login-conteiner pero se pudo soucionar, este avance tomo mas o menos dos horas, ahora esperare la revision de los nuevos cambios:D
